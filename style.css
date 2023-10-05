@@ -1,0 +1,55 @@
+/*tag body*/
+body {
+    padding-top: 100px;
+}
+/*tag body*/
+.navbar {
+    background-color: #e39dcf;
+}
+/*tag body*/
+.navbar-brand, .navbar-nav .nav-link {
+    color: #f2eef2;
+}
+/*tag body*/
+.jumbotron {
+    background-image: url('background.jpg');
+    color: #fff;
+    text-align: center;
+    padding: 100px;
+}
+/*tag body*/
+.section {
+    padding: 50px 0;
+}
+/*tag body*/
+.footer {
+    background-color: #e39dcf;;
+    color: #d22696;
+    text-align: center;
+    padding: 20px;
+}
+/*tag h1*/
+h1{
+    color:black;
+}
+/*tag p*/
+p{
+    color:black;
+    text-align: justify;
+}
+/*tag body*/
+#paragrafo{
+
+    text-align: center;
+
+}
+/*tag body*/
+#paragrafo1{
+
+    text-align: center;
+}
+/*tag img*/
+img{
+    
+    width: 300px;
+}
